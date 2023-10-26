@@ -1,3 +1,6 @@
+# Hey there!
+>I'm just a student that wanna be businessmen
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.totikov) 
